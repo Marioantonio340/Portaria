@@ -1,1 +1,2 @@
-Portaria
+Utilizei a Observer para medir a temperatura de quem passa na portaria, caso seja alta ele acusa suspeita de covid 19 e barra, a vatagem é que ele sempre vai estar de olho neste alerta. Utilizei a proxy para separar o tipo do acesso das pessoas e caso seja o porteiro ele sempre tem acesso, a vatagem é que ele separa o porteiro como autoridade maxima, caso seja uma pessoa comum verificar os avisos. Utilizei o bridge para criar exportar e imprimir o relatorio geral de quem entra e sai.
+Marioantonio340 marioantonio340@gmail.com = MARIO ANTONIO FERNANDES DE OLIVEIRA
